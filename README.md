@@ -45,4 +45,11 @@ To get a local copy up and running, follow these simple steps:
 3. To mark a task as completed, click on the checkbox next to the task.
 4. To delete a task, click on the "Delete" button next to the task.
 
+## Screenshorts
+
+<img width="960" alt="image" src="https://github.com/varun021/To-do-List/assets/73441687/583d6a7a-a194-44de-81a3-668f1fb082d9">
+<img width="960" alt="image" src="https://github.com/varun021/To-do-List/assets/73441687/54fc2107-6a63-454a-a883-17c3f2fd5ef3">
+
+
+
 
